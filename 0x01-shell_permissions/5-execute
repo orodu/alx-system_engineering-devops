@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd 701 hello
+chomd 700 hello
